@@ -1,5 +1,7 @@
 package com.neosuniversity.strings;
 
+
+
 public class StringPart3 {
 
     public static void main(String[] args) {
@@ -11,7 +13,7 @@ public class StringPart3 {
 
         String nombre4 = new String("GLORIA");
 
-        //StringBuffer
+
 
 
         if (nombre == nombre2) {
